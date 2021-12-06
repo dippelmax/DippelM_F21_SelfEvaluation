@@ -55,12 +55,20 @@ In place of my name as author on this Markdown file, please insert your own, alo
 
 
 1. Assignment 1: https://github.com/dippelmax/AN588-Week-2-dippelm/blob/main/dippelm_FinalHomeworkCode_01.html
+
 2.Assignment 2:  https://github.com/dippelmax/AN588_Week3_dippelm/blob/main/dippelm_FinalHomework_02.html
+
 3. Assignment 3: https://github.com/dippelmax/AN588-Week-5-dippelm-/blob/main/dippelm_Homework03_Final.html 
+
 4. Assignment 4: https://github.com/dippelmax/dippelmax_HW4_AN588/blob/main/dippelmax_FinalHW4.html
+
 5. Assignment 5: https://github.com/dippelmax/dippelmax_OriginalHomeworkCode_05/blob/main/dippelmax_Final_HW_05.html
-6. Replication assignment
-7. Self Evaluation: 
+
+6. Group module assignment: https://github.com/dippelmax/Time_Series_Module/blob/main/ARIMA_module.html
+
+7. Replication assignment: https://github.com/dippelmax/Mouse_Lemur_Replication/blob/main/R_replication_final_code.html
+
+8. Self Evaluation: https://github.com/dippelmax/DippelM_F21_SelfEvaluation/blob/main/DippelM_F21_SelfEvaluation.html 
 
 
 Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br><br><br><br><br>
